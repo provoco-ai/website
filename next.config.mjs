@@ -8,14 +8,7 @@ await import("./src/env.mjs");
 const config = {
   pageExtensions: ["tsx", "ts", "jsx", "js"],
   reactStrictMode: true,
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-    ],
-  },
+  output: "export",
 };
 
 export default config;

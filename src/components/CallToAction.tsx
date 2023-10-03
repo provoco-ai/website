@@ -13,9 +13,7 @@ export function CallToAction() {
             Request a demo
           </h2>
           <p className="mt-4 text-lg tracking-tight text-blue-100">
-            Our milkshake brings{" "}
-            <span className="font-bold text-white">all the boys</span> to the
-            yard. That includes you.
+            Let your documentation tell you what you need to know.
           </p>
           <Button href="mailto:demo@provoco.ai" color="white" className="mt-10">
             Contact us today

@@ -19,7 +19,7 @@ export function Hero() {
         for your private documents
       </h1>
       <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700">
-        Search your documents in conversational english using the power of large
+        Search your documents in conversational English using the power of large
         language models.
       </p>
       <div className="mt-10 flex justify-center">

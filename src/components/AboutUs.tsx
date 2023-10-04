@@ -7,7 +7,7 @@ import { Container } from "~/components/Container";
 import MohannadAlhanahnah from "public/MohannadAlhanahnah.jpeg";
 import MaribethCogan from "public/MaribethCogan.jpg";
 import ChrisHarrison from "public/ChrisHarrison.webp";
-import JustinHenry from "public/JustinHenry.webp";
+import JustinHenry from "public/JustinHenry.jpg";
 //import MattNash from "public/JustinHenry.webp";
 import SpencerSmith from "public/SpencerSmith.jpg";
 import JustinTaylor from "public/JustinTaylor.webp";

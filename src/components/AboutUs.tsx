@@ -6,6 +6,7 @@ import { Container } from "~/components/Container";
 
 import MohannadAlhanahnah from "public/MohannadAlhanahnah.jpeg";
 import MaribethCogan from "public/MaribethCogan.jpg";
+import NaliHaehn from "public/NaliHaehn.jpg";
 import ChrisHarrison from "public/ChrisHarrison.webp";
 import JustinHenry from "public/JustinHenry.jpg";
 //import MattNash from "public/JustinHenry.webp";
@@ -22,6 +23,11 @@ const people = [
     name: "Maribeth Cogan",
     image: MaribethCogan,
     bio: "Maribeth is a full-stack data scientist with 10 years of experience in fields ranging from wearable tech to healthcare claims big data. She has expertise in predictive and prescriptive analytics, generative AI, statistics and signal processing, and supervised and unsupervised machine learning. Maribeth has a passion for undertaking the latest challenges in AI and uncovering truth through cutting edge data science.",
+  },
+  {
+    name: "Nali Haehn",
+    image: NaliHaehn,
+    bio: "Nali is a solutions-driven software engineer with 15+ years of experience in R&D and professional services bringing high ROI, web-based business solutions to market. She is an expert in Full-Stack Web App development in multiple languages, RESTful web services and API integration, and business process automation. Nali is an avid developer of next generation technology to enhance productivity and is committed to the process of restoring useful software.",
   },
   {
     name: "Chris Harrison",

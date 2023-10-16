@@ -9,7 +9,6 @@ import MaribethCogan from "public/MaribethCogan.jpg";
 import ChrisHarrison from "public/ChrisHarrison.webp";
 import JustinHenry from "public/JustinHenry.jpg";
 //import MattNash from "public/JustinHenry.webp";
-import SpencerSmith from "public/SpencerSmith.jpg";
 import JustinTaylor from "public/JustinTaylor.webp";
 import TJWilder from "public/TJWilder.webp";
 
@@ -39,11 +38,6 @@ const people = [
   //   image: MattNash,
   //   bio: "",
   // },
-  {
-    name: "Spencer X Smith",
-    image: SpencerSmith,
-    bio: "Spencer X Smith consults for and invests in dozens of high-tech projects and teaches using simple language. After starting his career at IBM during the Y2K days, he's always been an early adopter of new technology so he can better teach others what he's learned. Spencer founded AmpliPhi in 2015 and has served on the Wisconsin Technology Council Board of Directors since 2017. He's a graduate of the Economics of Digital Assets program at the University of Pennsylvania.",
-  },
   {
     name: "Justin Taylor",
     image: JustinTaylor,

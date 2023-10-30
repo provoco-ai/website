@@ -1,6 +1,10 @@
 "use client";
 
+import Image from "next/image";
+
 import { Container } from "~/components/Container";
+
+import demo from "public/christi_demo.gif";
 
 export function Feature() {
   return (
@@ -18,10 +22,12 @@ export function Feature() {
             have to.
           </p>
         </div>
-        <div
-          title="Eventually, there will be a GIF or a video or something here."
-          className="mt-16 grid h-[800px] w-full grid-cols-1 items-center gap-y-2 rounded-xl bg-slate-200 pt-10 sm:gap-y-6 md:mt-20 lg:grid-cols-12 lg:pt-0"
-        ></div>
+
+        <Image
+          className="mt-16 w-full rounded-xl md:mt-20"
+          src={demo}
+          alt="Christi Demo"
+        />
       </Container>
     </section>
   );

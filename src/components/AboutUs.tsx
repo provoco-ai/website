@@ -4,21 +4,20 @@ import Image from "next/image";
 
 import { Container } from "~/components/Container";
 
-import MohannadAlhanahnah from "public/MohannadAlhanahnah.jpeg";
+//import MohannadAlhanahnah from "public/MohannadAlhanahnah.jpeg";
 import MaribethCogan from "public/MaribethCogan.jpg";
 import NaliHaehn from "public/NaliHaehn.jpg";
 import ChrisHarrison from "public/ChrisHarrison.webp";
 import JustinHenry from "public/JustinHenry.jpg";
-//import MattNash from "public/JustinHenry.webp";
-import JustinTaylor from "public/JustinTaylor.webp";
+//import JustinTaylor from "public/JustinTaylor.webp";
 import TJWilder from "public/TJWilder.webp";
 
 const people = [
-  {
-    name: "Mohannad Alhanahnah",
-    image: MohannadAlhanahnah,
-    bio: "Mohannad brings a unique blend of academic prowess and entrepreneurial vigor. His research interests primarily revolve around the confluence of program analysis and cybersecurity. Mohannad's passion is for transforming academic insights into tangible products. This commitment has led to patents, tech transfer tools, and the foundation of startup companies.",
-  },
+  // {
+  //   name: "Mohannad Alhanahnah",
+  //   image: MohannadAlhanahnah,
+  //   bio: "Mohannad brings a unique blend of academic prowess and entrepreneurial vigor. His research interests primarily revolve around the confluence of program analysis and cybersecurity. Mohannad's passion is for transforming academic insights into tangible products. This commitment has led to patents, tech transfer tools, and the foundation of startup companies.",
+  // },
   {
     name: "Maribeth Cogan",
     image: MaribethCogan,
@@ -40,15 +39,10 @@ const people = [
     bio: "Justin is a curious and enthusiastic software developer with over a decade of experience developing innovative solutions to the nastiest problems in the healthcare industry. He has a strong focus on security, scalability, and human-computer interaction, and consistently delivers impactful user experiences.",
   },
   // {
-  //   name: "Matt Nash",
-  //   image: MattNash,
-  //   bio: "",
+  //   name: "Justin Taylor",
+  //   image: JustinTaylor,
+  //   bio: "Justin is a highly accomplished web-based software developer and esteemed data science professional, possessing a decade-long track record of delivering revolutionary concepts to market.",
   // },
-  {
-    name: "Justin Taylor",
-    image: JustinTaylor,
-    bio: "Justin is a highly accomplished web-based software developer and esteemed data science professional, possessing a decade-long track record of delivering revolutionary concepts to market.",
-  },
   {
     name: "T.J. Wilder",
     image: TJWilder,

@@ -5,10 +5,10 @@ import Image from "next/image";
 import { Container } from "~/components/Container";
 
 //import MohannadAlhanahnah from "public/MohannadAlhanahnah.jpeg";
-import MaribethCogan from "public/MaribethCogan.jpg";
-import NaliHaehn from "public/NaliHaehn.jpg";
+//import MaribethCogan from "public/MaribethCogan.jpg";
+//import NaliHaehn from "public/NaliHaehn.jpg";
 import ChrisHarrison from "public/ChrisHarrison.webp";
-import JustinHenry from "public/JustinHenry.jpg";
+//import JustinHenry from "public/JustinHenry.jpg";
 //import JustinTaylor from "public/JustinTaylor.webp";
 import TJWilder from "public/TJWilder.webp";
 
@@ -18,26 +18,26 @@ const people = [
   //   image: MohannadAlhanahnah,
   //   bio: "Mohannad brings a unique blend of academic prowess and entrepreneurial vigor. His research interests primarily revolve around the confluence of program analysis and cybersecurity. Mohannad's passion is for transforming academic insights into tangible products. This commitment has led to patents, tech transfer tools, and the foundation of startup companies.",
   // },
+  //{
+  //  name: "Maribeth Cogan",
+  //  image: MaribethCogan,
+  //  bio: "Maribeth is a full-stack data scientist with 10 years of experience in fields ranging from wearable tech to healthcare claims big data. She has expertise in predictive and prescriptive analytics, generative AI, statistics and signal processing, and supervised and unsupervised machine learning. Maribeth has a passion for undertaking the latest challenges in AI and uncovering truth through cutting edge data science.",
+  //},
+  //{
+  //  name: "Nali Haehn",
+  //  image: NaliHaehn,
+  //  bio: "Nali is a solutions-driven software engineer with 15+ years of experience in R&D and professional services bringing high ROI, web-based business solutions to market. She is an expert in Full-Stack Web App development in multiple languages, RESTful web services and API integration, and business process automation. Nali is an avid developer of next generation technology to enhance productivity and is committed to the process of restoring useful software.",
+  //},
   {
-    name: "Maribeth Cogan",
-    image: MaribethCogan,
-    bio: "Maribeth is a full-stack data scientist with 10 years of experience in fields ranging from wearable tech to healthcare claims big data. She has expertise in predictive and prescriptive analytics, generative AI, statistics and signal processing, and supervised and unsupervised machine learning. Maribeth has a passion for undertaking the latest challenges in AI and uncovering truth through cutting edge data science.",
-  },
-  {
-    name: "Nali Haehn",
-    image: NaliHaehn,
-    bio: "Nali is a solutions-driven software engineer with 15+ years of experience in R&D and professional services bringing high ROI, web-based business solutions to market. She is an expert in Full-Stack Web App development in multiple languages, RESTful web services and API integration, and business process automation. Nali is an avid developer of next generation technology to enhance productivity and is committed to the process of restoring useful software.",
-  },
-  {
-    name: "Chris Harrison",
+    name: "Christopher Harrison, PhD",
     image: ChrisHarrison,
     bio: "Chris is a serial entrepreneur and computer geek who enjoys resource optimization opportunities and leading teams. He has a passion for computing at scale and parallelization specifically in High Performance Computing. He has a proven twenty years experience in large scale compute environments across F100, startups, and academia.",
   },
-  {
-    name: "Justin Henry",
-    image: JustinHenry,
-    bio: "Justin is a curious and enthusiastic software developer with over a decade of experience developing innovative solutions to the nastiest problems in the healthcare industry. He has a strong focus on security, scalability, and human-computer interaction, and consistently delivers impactful user experiences.",
-  },
+  //{
+  //  name: "Justin Henry",
+  //  image: JustinHenry,
+  //  bio: "Justin is a curious and enthusiastic software developer with over a decade of experience developing innovative solutions to the nastiest problems in the healthcare industry. He has a strong focus on security, scalability, and human-computer interaction, and consistently delivers impactful user experiences.",
+  //},
   // {
   //   name: "Justin Taylor",
   //   image: JustinTaylor,
